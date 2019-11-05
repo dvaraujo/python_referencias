@@ -7,4 +7,4 @@ Repositório feito para ser usado como referência e lembretes de coisas que apr
  - Clique na aba _Github_
  - No campo URL, cole o link do meu Github:  https://github.com/dvaraujo e aperte ENTER.
  
- Automaticamente irá ser buscado os notebooks que possuo. É só escolher um e clicar no nome dele ou no segundo ícone ("Open notebook in new tab")
+ Serão listados os notebooks que possuo. É só escolher um e clicar no nome dele ou no segundo ícone ("Open notebook in new tab")
